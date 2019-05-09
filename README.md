@@ -65,4 +65,4 @@ If the caret is there (would look like `"@types/core-js": "^0.9.34"`) then remov
   
 ## More Stuff
 Check out some of my [other courses on LinkedIn Learning](https://www.linkedin.com/learning/instructors/justin-schwartzenberger?u=2125562). 
-You can also [follow me on twitter](https://twitter.com/schwarty).
+You can also [follow me on my twitter](https://twitter.com/schwarty).
